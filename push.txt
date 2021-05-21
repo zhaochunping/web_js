@@ -1,0 +1,9 @@
+这是一个学习教程
+gitbask
+cd /d/gitsample/
+git init
+远程连接github：git remote add origin git@github.com:zhaochunping/web_js.git
+下载项目： git pull git@github.com:zhaochunping/web_js.git
+上传文件：git add push.txt
+git commit -m "push.txt"
+git push -u origin master
